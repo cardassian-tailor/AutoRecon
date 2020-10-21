@@ -121,6 +121,7 @@ snmpwalk
 sslscan
 svwar
 tnscmd10g
+toml
 whatweb
 wkhtmltoimage
 ```
